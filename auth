@@ -1,2 +1,4 @@
-8c6f0a7eb6d
-a9c65f38357
+constexpr std::uint64_t exampleArray[] =
+{
+      8c6f0a7eb6d, a9c65f38357
+};
